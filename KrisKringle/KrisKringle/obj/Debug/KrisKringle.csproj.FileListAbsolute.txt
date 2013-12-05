@@ -1,0 +1,9 @@
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\bin\Debug\KrisKringle.exe.config
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\bin\Debug\KrisKringle.exe
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\bin\Debug\KrisKringle.pdb
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\obj\Debug\KrisKringle.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\obj\Debug\KrisKringle.Form1.resources
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\obj\Debug\KrisKringle.Properties.Resources.resources
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\obj\Debug\KrisKringle.csproj.GenerateResource.Cache
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\obj\Debug\KrisKringle.exe
+c:\users\joe\documents\XDL_Export\KrisKringle\KrisKringle\obj\Debug\KrisKringle.pdb
